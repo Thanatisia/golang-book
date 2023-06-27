@@ -21,6 +21,16 @@ For beginners (or advanced), feel free to use this as a refresher/reference if y
 
 ### Pre-Requisites
 
+### Build/Compiling
+```console
+go build
+```
+
+### Running
+```console
+go run [source-file]
+```
+
 ## Documentation
 
 ## Wiki
