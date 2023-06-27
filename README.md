@@ -1,4 +1,4 @@
-# Golang Practice Ground
+# Golang Book
 
 ## Information
 ### Background
